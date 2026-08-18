@@ -43,7 +43,7 @@ Install the required dependencies:
 
 install requirements.txt
 
-Then open `ODIR5K_Binary_Classification.ipynb` or use the Google Colab link above.
+Then open `Novartis_submission_team_phoenix.ipynb` or use the Google Colab link above.
 
 ## Documentation
 
